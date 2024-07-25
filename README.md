@@ -60,6 +60,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 💪 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚎𝚗𝚐𝚊𝚐𝚎𝚍 𝚒𝚗 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
+2. 🎉 𝙰𝚌𝚚𝚞𝚒𝚛𝚒𝚗𝚐 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
+3. 🛠️ 𝚂𝚎𝚝𝚝𝚒𝚗𝚐 𝚞𝚙 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙶𝚒𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚝𝚘 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚌𝚘𝚗𝚝𝚛𝚘𝚕
+4. 🎯 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚘𝚛𝚢 𝚌𝚘𝚍𝚒𝚗𝚐 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚘𝚗𝚏𝚒𝚍𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚐𝚊𝚒𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎
+5. 📊 𝚃𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝚒𝚜𝚜𝚞𝚎𝚜 𝚊𝚗𝚍 𝚖𝚒𝚕𝚎𝚜𝚝𝚘𝚗𝚎𝚜 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 𝚊𝚗𝚍 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜.
 <!--END_SECTION:activity-->
 
 ## 🔨 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
@@ -71,11 +75,11 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <br>
 
-### 📊 Github Stats
+## 📊 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/ay4an9/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ay4an9/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
