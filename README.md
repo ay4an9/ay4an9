@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥  𝙰 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚒𝚖𝚋𝚞𝚎𝚍 𝚠𝚒𝚝𝚑 𝚊𝚞𝚍𝚊𝚌𝚒𝚘𝚞𝚜 𝚊𝚗𝚍 𝚊𝚟𝚊𝚗𝚝-𝚐𝚊𝚛𝚍𝚎 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜
-- 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
 - 🎓 𝙸 𝚊𝚖 𝚙𝚛𝚎𝚜𝚎𝚗𝚝𝚕𝚢 𝚊𝚗 𝚊𝚌𝚊𝚍𝚎𝚖𝚒𝚌 𝚜𝚌𝚑𝚘𝚕𝚊𝚛 𝚎𝚗𝚍𝚎𝚊𝚟𝚘𝚛𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚚𝚞𝚒𝚛𝚎 𝚊 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎, 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚘𝚖𝚊𝚒𝚗 𝚘𝚏 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚌𝚎.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
