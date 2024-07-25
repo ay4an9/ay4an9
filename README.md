@@ -1,6 +1,6 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[![](https://cdn.discordapp.com/attachments/1238924544845287585/1266105707430805534/Screenshot_2024-07-26_001717_1.png?ex=66a3f053&is=66a29ed3&hm=2042b89712638ad2f8a12a81e84d8e49de2f089b05e84c7fdc0e64f7fe3649ef&)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
