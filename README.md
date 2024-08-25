@@ -1,4 +1,4 @@
-<a href="https://eddiejaoude.substack.om/p/links" target="_blank"><img src="[https://media.discordapp.net/attachments/1254079452791439472/1273616846460944424/Untitled_design.gpn](https://www.digitaland.tv/blog/html5-banner-developer-8-questions-you-should-ask-before-hiring/)ex=66bf439e&is=66bdf21e&hm=a76ea1053a8344ee6df3ac823e0fcc0e076b61de43732e42ed508a2a99ae6d08&=&format=webp&quality=lossless&width=1200&height=400" /></a>
+<a href="https://eddiejaoude.substack.om/p/links" target="_blank"><img src="[[https://media.discordapp.net/attachments/1254079452791439472/1273616846460944424/Untitled_design.gpn](https://www.digitaland.tv/blog/html5-banner-developer-8-questions-you-should-ask-before-hiring/)ex=66bf439e&is=66bdf21e&hm=a76ea1053a8344ee6df3ac823e0fcc0e076b61de43732e42ed508a2a99ae6d08&=&format=webp&quality=lossless&width=1200&height=400](https://www.digitaland.tv/blog/html5-banner-developer-8-questions-you-should-ask-before-hiring/)" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
