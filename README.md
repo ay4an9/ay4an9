@@ -1,4 +1,4 @@
-<a href="https://eddiejaoude.substacom/p/links" target="_blank"><img src="https://images.alphacoders.com/259/thumb-1920-259513.jpg" /></a>
+<a href="https://images.alphacoders.com/259/thumb-1920-259513.jpg" target="_blank"><img src="https://images.alphacoders.com/259/thumb-1920-259513.jpg" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
