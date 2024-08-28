@@ -1,4 +1,4 @@
-<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="[[https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg](https://images.alphacoders.com/259/thumb-1920-259513.jpg)](https://images.alphacoders.com/259/thumb-1920-259513.jpg)" /></a>
+<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://images.alphacoders.com/259/thumb-1920-259513.jpg" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
