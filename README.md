@@ -1,4 +1,4 @@
-<a href="[[https://images.alphacoders.com/259/thumb-1920-259513.jpg](https://149611589.v2.pressablecdn.com/wp-content/uploads/2022/11/github-codespaces.webp)](https://media.discordapp.net/attachments/1268259773774823577/1284062564862394482/Screenshot_4.png?ex=66e543f4&is=66e3f274&hm=faf7568e9857d1df3b81d46501b89b065c60eb5df80f405753a1f83ade06f0f1&=&format=webp&quality=lossless&width=984&height=623)" target="_blank"><img src="[[https://images.alphacoders.com/259/thumb-1920-259513.jpg](https://149611589.v2.pressablecdn.com/wp-content/uploads/2022/11/github-codespaces.webp)](https://media.discordapp.net/attachments/1268259773774823577/1284062564862394482/Screenshot_4.png?ex=66e543f4&is=66e3f274&hm=faf7568e9857d1df3b81d46501b89b065c60eb5df80f405753a1f83ade06f0f1&=&format=webp&quality=lossless&width=984&height=623)" /></a>
+<a href="" target="_blank"><img src="" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
